@@ -39,7 +39,7 @@ client.on('message', message => {
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("")
+let channel =     client.channels.get("499686836751302683")
 setInterval(function() {
 channel.send(`gfgffffffffffffhdl,fgbkl;jgl;kjhk;;;lfdfhlmاحلا مسااااااااااااااااااااا :joy:`);
 }, 25)
